@@ -10,10 +10,7 @@
     
     <?php
     
-        echo "hola mundo";
-
-
-        echo "Cambios php"
+        echo "ULTIMA HORA: Lamine Yamal lesionado 4 meses"
     ?>
     
 </body>
